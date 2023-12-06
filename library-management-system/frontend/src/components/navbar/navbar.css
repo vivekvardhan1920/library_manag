@@ -1,0 +1,55 @@
+img{
+    height:45px;
+    width:175px;
+cursor: pointer;
+
+}
+.main_header{
+    display: flex;
+    padding: 20px 40px;
+    max-width: 100%;
+    justify-content: space-between;
+}
+.search-box input{
+padding: 10px 10px;
+outline: none;
+background: none;
+border-radius: 5px;
+width: 250px;
+border: none;
+border: 1px solid #8a8a8a;
+}
+
+.search-box button{
+    padding: 10px 10px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    border: 1px solid #8a8a8a;
+    width: 50px;
+    cursor: pointer;
+    margin-right: 30px;
+    background:#F7D65A;
+    transition: 0.5s;
+}
+.user{
+    display: flex;
+    margin-right: 40px;
+    margin-top: 10px;
+}
+.icon{
+    margin-right: 10px;
+
+}
+.button{
+    border: none;
+    outline: none;
+    font-size: 16px;
+    background:none;
+    cursor: pointer;
+}
+.btn{
+    background: none;
+    border: none;
+    cursor: pointer;
+}
